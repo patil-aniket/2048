@@ -48,4 +48,5 @@ The plan is to implement the core 2048 gameplay and enhance it with modern UI/UX
 - High score tracking.
 - Different grid sizes and more advanced settings.
 - Auto-solver to demonstrate AI logic for solving the 2048 game.
-- Stay tuned for future updates!
+
+Stay tuned for future updates!
