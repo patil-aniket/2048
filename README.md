@@ -7,7 +7,7 @@ Current Status: Just started - Nothing is fully functional yet.
 
 This project is currently under development, so expect incomplete features and missing functionality. Stay tuned for updates as I work towards building a playable version of the 2048 game.
 
-## To-Do List
+## 📋 To-Do List
 Some of the key goals and tasks for this project are:
 
 - Basic game board setup.
